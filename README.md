@@ -1,3 +1,3 @@
 # hello-world
 Test
-Listen, these are millionnares in the making. Sure!
+Listen, these are millionnaires in the making. Sure!
